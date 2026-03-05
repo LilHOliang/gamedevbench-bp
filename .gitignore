@@ -272,3 +272,5 @@ tools/
 seeles-test-service-account.json
 .env.example
 
+# software-agent-sdk
+software-agent-sdk
